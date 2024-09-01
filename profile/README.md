@@ -18,7 +18,7 @@ The FEDEM source code is organized into several repositories, using the
 The main repositories are as follows:
 
 * [fedem-gui](https://github.com/openfedem/fedem-gui) - The FEDEM user interface (C++ code)
-* [fedem_mdb](https://github.com/openfedem/fedem-mdb) - The FEDEM model database (C++ code)
-* [fedem_solvers](https://github.com/openfedem/fedem-solvers) - The solver modules and Python API (Fortran and python code)
+* [fedem-mdb](https://github.com/openfedem/fedem-mdb) - The FEDEM model database (C++ code)
+* [fedem-solvers](https://github.com/openfedem/fedem-solvers) - The solver modules and Python API (Fortran and python code)
 
 For more information, see the project home page [openfedem.org](https://openfedem.org).
